@@ -1,0 +1,7 @@
+nbgitpuller
+notebook-as-pdf
+numpy
+pandas
+matplotlib
+scipy
+seaborn
